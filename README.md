@@ -1,4 +1,10 @@
-Este projeto tem o objetivo de otimizar o trabalho da equipe de Projetos de uma empresa especializada em Compatibilização e Coordenação de Projetos de Engenharia Civil através das seguintes funcionalidades:
+# 💾 Sistema de movimentação de arquivos do Google Drive
+
+Este projeto tem o objetivo de otimizar o trabalho da equipe de Projetos de uma empresa especializada em Compatibilização e Coordenação de Projetos de Engenharia Civil.
+
+
+## 🚀 Funcionalidades
+
 1. Cadastro de novos projetos com envio de formulário
 2. Criação automática das pastas no Google Drive no padrão da empresa
 3. Varredura das pastas de todos os projetos cadastrados
@@ -12,3 +18,13 @@ Este projeto tem o objetivo de otimizar o trabalho da equipe de Projetos de uma 
 12. Movimentação do arquivo para sua respectiva pasta organizadora de acordo com a disciplina e formato
 13. Cópia do arquivo para sua respectiva pasta de backup
 14. Notificação via Discord e via e-mail para a equipe do projeto avisando sobre o sucesso do processo ou sobre possíveis erros
+
+
+## 📅 Última Atualização
+
+31/10/2024
+
+
+## 👩‍💻 Autora
+
+Polyana Ramos Araújo
