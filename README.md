@@ -22,7 +22,7 @@ Este projeto tem o objetivo de otimizar o trabalho da equipe de Projetos de uma 
 
 ## 📅 Última Atualização
 
-31/10/2024
+28/06/2024
 
 
 ## 👩‍💻 Autora
